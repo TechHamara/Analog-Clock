@@ -23,7 +23,9 @@ Developed by th using Fast.An advanced Analog Clock extension for App Inventor w
 https://youtube.com/shorts/xJ3mozYbS5s?si=gKKqgcWDmPSyGX8z
 
 ## Screen shot 
+![0ad19913-8d30-4350-931f-8b0ff95b5de2.gif](https://github.com/user-attachments/assets/4f9f675c-e361-4356-adbc-7ce404cb2f20)
 
+![b93722d5-a48d-4ee0-84f5-d90468bc24fb.gif](https://github.com/user-attachments/assets/396fa5e1-38a9-41c1-ab79-492a7b042091)
 
 <br>
 ## <kbd>Methods:</kbd>
