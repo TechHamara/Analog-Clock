@@ -29,6 +29,7 @@ https://youtube.com/shorts/xJ3mozYbS5s?si=gKKqgcWDmPSyGX8z
 
  ![b93722d5-a48d-4ee0-84f5-d90468bc24fb.gif](https://github.com/user-attachments/assets/396fa5e1-38a9-41c1-ab79-492a7b042091)
 
+![Analog_Clock_blocks.png](https://github.com/user-attachments/assets/76649fc6-e615-4045-a86d-fb084867cff1)
 
 <br>
 
