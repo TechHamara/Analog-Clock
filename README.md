@@ -18,7 +18,14 @@ Developed by th using Fast.An advanced Analog Clock extension for App Inventor w
 <br>
 **Telegram:** [here](https://t.me/techhamara91)<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
-<br><br>
+<br>
+### Demo Video 
+https://youtube.com/shorts/xJ3mozYbS5s?si=gKKqgcWDmPSyGX8z
+
+## Screen shot 
+
+
+<br>
 ## <kbd>Methods:</kbd>
 **AnalogClock** has total 14 methods.
 <br>
