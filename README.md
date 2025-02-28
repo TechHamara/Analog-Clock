@@ -31,12 +31,14 @@ https://youtube.com/shorts/xJ3mozYbS5s?si=gKKqgcWDmPSyGX8z
 
 
 <br>
+
 ## <kbd>Methods:</kbd>
 
 **AnalogClock** has total 14 methods.
 <br>
 
 ![InitializeClockBlock.png](https://github.com/user-attachments/assets/a61efea4-f89e-4c84-af21-cef3d3a8a8e1)
+
 ### 💜 InitializeClock
 Initialize the Analog Clock inside a Vertical or Horizontal Arrangement
 
