@@ -32,6 +32,7 @@ https://youtube.com/shorts/xJ3mozYbS5s?si=gKKqgcWDmPSyGX8z
 
 <br>
 ## <kbd>Methods:</kbd>
+
 **AnalogClock** has total 14 methods.
 <br>
 
