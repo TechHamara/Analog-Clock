@@ -16,6 +16,8 @@ Developed by th using Fast.An advanced Analog Clock extension for App Inventor w
 📅 **Updated On:** [date=2025-02-28 timezone="Indian/Maldives"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.4.1`
 <br>
+**Telegram:** [here](https://t.me/techhamara91)<br>
+**Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br><br>
 ## <kbd>Methods:</kbd>
 **AnalogClock** has total 14 methods.
